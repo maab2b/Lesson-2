@@ -39,14 +39,14 @@ h4 {
 /*==========MAIN CONTENT============*/
 
 main {
-    padding: 80px 0 107px;
+    padding: 60px 0 107px;
     font-size: 0;
 }
 
 .content_block {
     display: inline-block;
     width: 350px;
-    margin: 0 16px;
+    margin: 20px 16px;
 }
 
 .icon {
