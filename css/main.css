@@ -1,0 +1,87 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container {
+    width: 100%;
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/*===========HEADER=============*/ 
+
+header {
+    padding-top: 108px;
+}
+
+h1 {
+    font-family: 'Raleway', sans-serif;
+    font-size: 36px;
+    font-weight: 400;
+    color: #212121;
+}
+
+hr {
+    width: 64px;
+    height: 2px;
+    border: none;
+    background: #FF8B38;
+    margin: 30px auto;
+}
+
+h4 {
+    color: #86878b;
+    font-size: 14px;
+    font-weight: 400;
+}
+
+/*==========MAIN CONTENT============*/
+
+main {
+    padding: 80px 0 107px;
+    font-size: 0;
+}
+
+.content_block {
+    display: inline-block;
+    width: 350px;
+    margin: 0 16px;
+}
+
+.icon {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border: 2px solid #FF8B38;
+    border-radius: 50%;
+}
+
+h2 {
+    margin: 29px 0;
+    font-size: 20px;
+    font-weight: 700;
+    color: #333333;
+}
+
+p {
+    font-size: 14px;
+    font-weight: 400;
+    color: #86878b;
+}
+
+.icon--lamp {
+    background: url(../img/icon_lamp.png) no-repeat center center;
+}
+
+.icon--keyboard {
+    background: url(../img/icon_keyboard.png) no-repeat center center;
+}
+
+.icon--lightning {
+    background: url(../img/icon_lightning.png) no-repeat center center;
+}
+
+
+
+
